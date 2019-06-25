@@ -1,2 +1,4 @@
 # Java Projects
-![Java Chatroom](Chat)
+[Java Chatroom](Chat)
+
+[Shopping Cart](Shop)
