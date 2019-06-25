@@ -5,6 +5,7 @@ A small java chatroom built with JFrame and Socket.
 Login:
 
 ![image](intro/login.png | width=100)
+<img src="intro/login.png" width="40%">
 
 Register:
 
