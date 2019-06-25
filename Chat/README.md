@@ -4,11 +4,11 @@ A small java chatroom built with JFrame and Socket.
 
 Login:
 
-![image](intro/login.png)
+![image](intro/login.png | width=100)
 
 Register:
 
-![image](intro/login.png)
+![image](intro/login.png | width=100)
 
 
 User status and message management:
@@ -22,7 +22,7 @@ Public and private chat:
 ![image](intro/marry.png)
 
 Chat message quick choose:
-![image](intro/marry.png)
+![image](intro/select.png)
 
 
 
