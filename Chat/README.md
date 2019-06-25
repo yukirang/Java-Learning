@@ -4,26 +4,24 @@ A small java chatroom built with JFrame and Socket.
 
 Login:
 
-![image](intro/login.png | width=100)
 <img src="intro/login.png" width="40%">
 
 Register:
 
-![image](intro/login.png | width=100)
-
+<img src="intro/reg.png" width="40%">
 
 User status and message management:
 
-![image](intro/server.png)
+<img src="intro/server.png" width="40%">
 
 Public and private chat:
 
-![image](intro/yuki.png)
-![image](intro/tom.png)
-![image](intro/marry.png)
+<img src="intro/yuki.png" width="40%">
+<img src="intro/tom.png" width="40%">
+<img src="intro/marry.png" width="40%">
 
 Chat message quick choose:
-![image](intro/select.png)
+<img src="intro/select.png" width="40%">
 
 
 
